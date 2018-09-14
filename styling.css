@@ -1,0 +1,87 @@
+/* color-palette:
+
+Background:lightgrey, 
+Primary text:black, 
+Primary color:rgb(150,20,20),
+Primary color text:white, 
+Accent color:darkmagenta, 
+Accent color text:white
+*/
+
+/* ------GLOBAL---------- */
+
+*{
+background-color:lightgrey;
+font-family:"Arial",sans-serif;
+margin: 0px;
+padding: 0px;
+}
+
+button{
+background-color:#CDDC39;
+color:black;
+font-size:large;
+text-transform:uppercase;
+}
+
+/* ----------CHANNEL LISTS----------- */
+
+li{
+background-color:white;
+font-size:large;
+list-style-type:none;
+}
+
+ul{
+background-color:white;
+font-size:large;
+list-style-type:none;
+}
+
+/* ------------APP BAR----------- */
+
+h1{
+background-color:rgb(150,20,20);
+color:white;
+}
+
+small{
+background-color:rgb(150,20,20);
+font-size:small;
+}
+
+/* -----------TAB BAR--------  */
+
+.tabs{
+background-color:white;
+border:1px solid black;
+}	
+
+/* ----------- MESSAGES ---------- */
+h6{
+color:darkblue;
+font-size:medium;
+}
+
+p{
+background-color:white;
+font-size:small;
+padding: 16px;
+}
+
+i{
+font-style:normal;
+font-size:larger;
+color:darkgreen;
+}
+
+ttl{
+font-size:larger;
+color:darkgreen;
+}
+
+.chats{
+width:80%;
+border:2px solid black;
+margin-bottom: 8px;
+}
